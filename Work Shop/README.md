@@ -14,7 +14,7 @@ pip install webdriver-manager
 ### 2. Chrome WebDriver Installation
 
 1. Download ChromeDriver:
-   - Visit the official ChromeDriver download page: https://googlechromodriver.github.io/ChromeDriver/
+   - Visit the official ChromeDriver download page: https://googlechromelabs.github.io/chrome-for-testing/#stable
    - Download the version that matches your Chrome browser version
    - Extract the downloaded file
 
